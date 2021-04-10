@@ -6,6 +6,7 @@ This section gathers the most common questions from the community related to pac
 ## Contents
 
   * [What is the policy on recipe name collisions?](#what-is-the-policy-on-recipe-name-collisions)
+  * [What is the policy on creating packages from pre-compiled binaries?](#what-is-the-policy-on-creating-packages-from-pre-compiled-binaries)
   * [Should reference names use `-` or `_`?](#should-reference-names-use---or-_)
   * [Why are CMake find/config files and pkg-config files not packaged?](#why-are-cmake-findconfig-files-and-pkg-config-files-not-packaged)
   * [Should recipes export a recipe's license?](#should-recipes-export-a-recipes-license)
